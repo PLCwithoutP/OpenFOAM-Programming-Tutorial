@@ -3,6 +3,7 @@ OpenFOAM Programming Tutorial based upon YouTuber trushal gohil's "OpenFOAM Prog
 
 Link: https://youtu.be/2Huh38sDv_g?si=l5T1V6D3Nbr9fcwX
 
+This repo is created for OpenFOAM v2412
 ---
 
 ## 📘 Sessions Overview
